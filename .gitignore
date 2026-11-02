@@ -1,0 +1,5 @@
+build/
+dist/
+signing/
+device-test/
+__pycache__/
